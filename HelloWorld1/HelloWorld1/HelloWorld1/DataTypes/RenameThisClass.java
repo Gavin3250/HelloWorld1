@@ -8,10 +8,6 @@
 public class RenameThisClass
 {
     public static void main(String[] args) {
-        int i = 10;
-        int i += f;
-        
-        
-        
+        System.out.println("Hello World!");
     }
 }
